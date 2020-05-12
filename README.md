@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 1) install node js:-
 https://nodejs.org
 ## 2) deleted npm –cache folders
-npm cache clear --force
+npm cache clear --force <br />
 npm cache verify
 ## 3) update npm to latest version
 npm  i -g npm 
