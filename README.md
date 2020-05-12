@@ -1,3 +1,6 @@
+## please go through the introduction.docx of this project ,i have pasted some pictures of the webpages along with the commands that i have used from the starting(installing node) till running(npm start) 
+
+## it is important to go through the introduction.docx because at the end ,i have given all commands that i used related to the dependancies that are there in the project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
