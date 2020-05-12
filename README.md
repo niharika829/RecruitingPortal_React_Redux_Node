@@ -4,17 +4,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-1 install node js:-
+## 1) install node js:-
 https://nodejs.org
-2 deleted npm –cache folders
+## 2) deleted npm –cache folders
 npm cache clear --force
 npm cache verify
-3 update npm to latest version
+## 3) update npm to latest version
 npm  i -g npm 
-4) react folder
+## 4) react folder
 npm  i  -g  create-react-app
 create-react-app  react-app
-5) install dependency
+## 5) install dependency
 npm install  react-router-dom
 npm install @material  -ui/core
 npm install  redux react-redux
@@ -23,7 +23,7 @@ npm install  react-modal  --save
 npm install  --save  react-animated-modal
 npm install  react-dropdown  --save
 npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
-6) run(inside the main folder)
+## 6) run(inside the main folder)
 npm start
 
 
