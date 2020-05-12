@@ -12,17 +12,17 @@ npm cache verify
 ## 3) update npm to latest version
 npm  i -g npm 
 ## 4) react folder
-npm  i  -g  create-react-app
-create-react-app  react-app
+npm  i  -g  create-react-app <br />
+create-react-app  react-app <br />
 ## 5) install dependency
-npm install  react-router-dom
-npm install @material  -ui/core
-npm install  redux react-redux
-npm install  react-bootstrap  bootstrap  --save
-npm install  react-modal  --save 
-npm install  --save  react-animated-modal
-npm install  react-dropdown  --save
-npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+npm install  react-router-dom <br />
+npm install @material  -ui/core <br />
+npm install  redux react-redux <br />
+npm install  react-bootstrap  bootstrap  --save <br />
+npm install  react-modal  --save <br />
+npm install  --save  react-animated-modal <br />
+npm install  react-dropdown  --save <br />
+npm i --save @fortawesome/fontawesome-svg-core  @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome <br />
 ## 6) run(inside the main folder)
 npm start
 
